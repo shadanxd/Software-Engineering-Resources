@@ -7,7 +7,7 @@
 - [API Optimisation](https://www.youtube.com/watch?v=zvWKqUiovAM)
 - [Async vs Multithreading vs Multiprocessing programming](https://www.youtube.com/watch?v=0vFgKr5bjWI&t=321s)
 - [MIT- Introduction to computational thinking](https://youtube.com/playlist?list=PLUl4u3cNGP619EG1wp0kT-7rDE_Az5TNd&si=Wrhok7VI-dlYAs1_)
-- [MIT - Introduction to algorithms](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb
+- [MIT - Introduction to algorithms](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
 - [Striver - Graph](https://www.youtube.com/watch?v=M3_pLsDdeuU&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn)
 
 ## Engineering Blogs
