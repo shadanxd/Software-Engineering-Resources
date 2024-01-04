@@ -8,6 +8,7 @@
 
 
 ## Engineering Blogs
+### [Grug Brained Developer](https://www.youtube.com/watch?v=zvWKqUiovAM)
 ### [Netflix tech blog](https://netflixtechblog.com/)
 ### [Uber Blog](https://www.uber.com/en-IN/blog/bangalore/engineering/)
 ### [Engineering at Meta](https://engineering.fb.com/)
