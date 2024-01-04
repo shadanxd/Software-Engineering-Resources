@@ -1,20 +1,23 @@
 # Software-Engineering-Resources
-
+## Road Map
+- [Developer Road Map] (https://roadmap.sh)
 ## Youtube Resources
-### [Introduction to algorithms by Abdul Bari](https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O&index=1)
-### [Postgres Optimisation](https://www.youtube.com/watch?v=YON9PliOYFk)
-### [API Optimisation](https://www.youtube.com/watch?v=zvWKqUiovAM)
-### [Async vs Multithreading vs Multiprocessing programming](https://www.youtube.com/watch?v=0vFgKr5bjWI&t=321s)
-
+- [Introduction to algorithms by Abdul Bari](https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O&index=1)
+- [Postgres Optimisation](https://www.youtube.com/watch?v=YON9PliOYFk)
+- [API Optimisation](https://www.youtube.com/watch?v=zvWKqUiovAM)
+- [Async vs Multithreading vs Multiprocessing programming](https://www.youtube.com/watch?v=0vFgKr5bjWI&t=321s)
+- [MIT- Introduction to computational thinking] (https://youtube.com/playlist?list=PLUl4u3cNGP619EG1wp0kT-7rDE_Az5TNd&si=Wrhok7VI-dlYAs1_)
+- [MIT - Introduction to algorithms] (https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
 
 ## Engineering Blogs
-### [Grug Brained Developer](https://www.youtube.com/watch?v=zvWKqUiovAM)
-### [Netflix tech blog](https://netflixtechblog.com/)
-### [Uber Blog](https://www.uber.com/en-IN/blog/bangalore/engineering/)
-### [Engineering at Meta](https://engineering.fb.com/)
-### [Discord Blog](https://discord.com/category/engineering)
-### [Zerodha tech](https://zerodha.tech/)
-### [Kailash Nadh](https://nadh.in/)
+- [Backend Developer Resume](https://huyenchip.com/2023/01/24/what-we-look-for-in-a-candidate.html)
+- [Grug Brained Developer](https://www.youtube.com/watch?v=zvWKqUiovAM)
+- [Netflix tech blog](https://netflixtechblog.com/)
+- [Uber Blog](https://www.uber.com/en-IN/blog/bangalore/engineering/)
+- [Engineering at Meta](https://engineering.fb.com/)
+- [Discord Blog](https://discord.com/category/engineering)
+- [Zerodha tech](https://zerodha.tech/)
+- [Kailash Nadh](https://nadh.in/)
 
 ## White Papers
 
