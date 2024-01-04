@@ -4,7 +4,12 @@
 [Introduction to algorithms by Abdul Bari](https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O&index=1)
 
 ## Engineering Blogs
-
+[Netflix tech blog](https://netflixtechblog.com/)
+[Uber Blog](https://www.uber.com/en-IN/blog/bangalore/engineering/)
+[Engineering at Meta](https://engineering.fb.com/)
+[Discord Blog](https://discord.com/category/engineering)
+[Zerodha tech](https://zerodha.tech/)
+[Kailash Nadh](https://nadh.in/)
 
 ## White Papers
 
