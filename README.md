@@ -1,6 +1,6 @@
 # Software-Engineering-Resources
 ## Road Map
-- [Developer Road Map] (https://roadmap.sh)
+- [Developer Road Map](https://roadmap.sh)
 ## Youtube Resources
 - [Introduction to algorithms by Abdul Bari](https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O&index=1)
 - [Postgres Optimisation](https://www.youtube.com/watch?v=YON9PliOYFk)
