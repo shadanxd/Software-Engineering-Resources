@@ -1,7 +1,11 @@
 # Software-Engineering-Resources
 
 ## Youtube Resources
-[Introduction to algorithms by Abdul Bari](https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O&index=1)
+### [Introduction to algorithms by Abdul Bari](https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O&index=1)
+### [Postgres Optimisation](https://www.youtube.com/watch?v=YON9PliOYFk)
+### [API Optimisation](https://www.youtube.com/watch?v=zvWKqUiovAM)
+
+
 
 ## Engineering Blogs
 ### [Netflix tech blog](https://netflixtechblog.com/)
@@ -330,3 +334,4 @@
 ## Books
 
 ## Leetcode Solved sheet
+### [Leetcode Solved](https://docs.google.com/spreadsheets/d/1l4L2ob8Rbt_WkmzggNqLQmGXapJp23e4mTwY3DLi23A/edit?pli=1#gid=0)
