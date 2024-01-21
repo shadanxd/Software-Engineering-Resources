@@ -19,6 +19,7 @@
 - [Discord Blog](https://discord.com/category/engineering)
 - [Zerodha tech](https://zerodha.tech/)
 - [Kailash Nadh](https://nadh.in/)
+- [Metadata, A blog on distributed systems](https://muratbuffalo.blogspot.com/?m=1)
 
 ## White Papers
 
